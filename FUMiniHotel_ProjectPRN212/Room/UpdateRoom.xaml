@@ -40,7 +40,7 @@
                 <TextBlock Text="Số phòng" Foreground="White" FontWeight="Bold"/>
                 <TextBox x:Name="txtRoomNumber" Margin="0,0,0,10"/>
 
-                <TextBlock Text="Loại phòng" Foreground="White" FontWeight="Bold"/>
+                <TextBlock Text="Loại phòng" Foreground="Black" FontWeight="Bold"/>
                 <ComboBox x:Name="cbRoomType" DisplayMemberPath="TypeName" SelectedValuePath="RoomTypeId" Margin="0,0,0,10"/>
 
                 <TextBlock Text="Mô tả" Foreground="White" FontWeight="Bold"/>
